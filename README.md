@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Welcome%20to%20Eojin's%20GitHub%20👋&animation=twinkling&fontSize=35&fontAlignY=40&fontAlign=70&height=250)
 
-my name is Eojin kim. I often upload web projects, mini games, and learning content.
+Hello, My name is Eojin kim. I often upload web projects, mini games, and learning content.
 <br>
 안녕하세요, 지속적인 성장을 꿈꾸는 개발자 김어진입니다. 🙋‍♀️
 
